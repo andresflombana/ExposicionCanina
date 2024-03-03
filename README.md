@@ -49,7 +49,7 @@ Para usar este programa de manera efectiva, el usuario podría seguir estos paso
 • 3-	Eliminar a un perro.
 • 4-	Mostrar la lista de perros registrados.
 • 5-	Enlistar información de los perros.
-• 6-	Mostrar información detallada de un perro específico.
+• 6-	Mostrar información de un perro específico.
 • 7-	Ver al perro ganador de la exposición (con mayor puntaje).
 • 8-	Ver al perro con el menor puntaje en la exposición.
 • 9-	Ver al perro más viejo en la exposición.
