@@ -44,16 +44,16 @@ Para usar este programa de manera efectiva, el usuario podría seguir estos paso
 1.	Inicio del Programa:  Al iniciar el programa, se mostrará la fecha y hora actual de ejecución. Después de mostrar la fecha y hora, se presentará el menú de opciones. 
 2.	Menú de Opciones:  El menú de opciones permite al usuario elegir entre varias acciones relacionadas con la gestión de perros en una exposición canina. Las opciones disponibles son:
 
-* 1-	Registrar un nuevo perro.
-* 2-	Modificar la información de un perro existente.
-* 3-	Eliminar a un perro.
-* 4-	Mostrar la lista de perros registrados.
-* 5-	Enlistar por información de los perros.
-* 6-	Mostrar información detallada de un perro específico.
-* 7-	Ver al perro ganador de la exposición (con mayor puntaje).
-* 8-	Ver al perro con el menor puntaje en la exposición.
-* 9-	Ver al perro más viejo en la exposición.
-* 10-	Terminar el programa.
+• 1-	Registrar un nuevo perro.
+• 2-	Modificar la información de un perro existente.
+• 3-	Eliminar a un perro.
+• 4-	Mostrar la lista de perros registrados.
+• 5-	Enlistar por información de los perros.
+• 6-	Mostrar información detallada de un perro específico.
+• 7-	Ver al perro ganador de la exposición (con mayor puntaje).
+• 8-	Ver al perro con el menor puntaje en la exposición.
+• 9-	Ver al perro más viejo en la exposición.
+• 10-	Terminar el programa.
 
 3.	Selección de Opción:  El usuario debe ingresar el número correspondiente a la opción deseada y presionar Enter. Si se ingresa un número inválido, se mostrará un mensaje de error y se solicitará al usuario que ingrese nuevamente la opción. 
 4.	Ejecución de la Opción Seleccionada:  Dependiendo de la opción seleccionada, se realizará una acción específica. Las acciones incluyen registrar un nuevo perro, modificar la información de un perro existente, eliminar un perro, mostrar información de perros, etc. En caso de errores o excepciones, se mostrarán mensajes informativos adecuados. 
