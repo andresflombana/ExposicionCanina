@@ -12,13 +12,13 @@
 
 # Proyecto
 
-**Sistema de gestión de un inventario para tienda.**
+**Gestor de Exposición Canina.**
 
 # Descripción del Proyecto
 
-*El proyecto consiste en desarrollar un programa de gestión de inventario para una tienda de barrio. El sistema debe permitir agregar productos con información como nombre, precio y cantidad. Además, debe ser capaz de mostrar el inventario completo, organizar los productos según la cantidad disponible de menor a mayor, y permitir la eliminación de productos del inventario.*
+*Gestor de Exposición Canina es un programa para gestionar una exposición canina, este proyecto permite el registro, modificación, eliminación, búsqueda, visualización de información detallada y estadísticas relevantes*
 
- **El propósito principal del proyecto es proporcionar a la tienda de barrio una herramienta simple y eficiente para gestionar su inventario, permitiendo llevar un control preciso de los productos disponibles, su cantidad y precio, así como facilitar la adición y eliminación de productos según sea necesario.**
+ **El propósito principal del proyecto es crear un sistema para administrar perros participantes en una exposición, permitiendo registro, modificación, eliminación y visualización de la información.**
 
 ## Empezando
 
@@ -35,35 +35,30 @@ No se requiere instalación adicional para este programa.
 ### Ejecución
 
 1. Ingresa a NetBeans (o tu entorno de desarrollo Java)
-2. Importa el archivo .RAR que contiene el programa
+2. Cree el proyecto e introduzca el código
 3. Compile el programa 
 ```
 Para usar este programa de manera efectiva, el usuario podría seguir estos pasos:
 ```
-    4. Agregar Producto:
-    Seleccione la opción "1.Agregar un Producto".
-    Ingrese el ID del producto
-    Ingrese el precio del producto
-    Ingrese el nombre del producto
-    Ingrese la cantidad del producto
-    Confirme la información y precione Enter.
+```
+1.	Inicio del Programa:  Al iniciar el programa, se mostrará la fecha y hora actual de ejecución. Después de mostrar la fecha y hora, se presentará el menú de opciones. 
+2.	Menú de Opciones:  El menú de opciones permite al usuario elegir entre varias acciones relacionadas con la gestión de perros en una exposición canina. Las opciones disponibles son:
 
-    5. Mostrar Inventario:
-    Seleccione la opción "2.Mostrar Inventario".
-    Se mostrará una lista de todos los productos en el inventario con su ID, nombre, precio y cantidad.
-    
-    6. Ordenar inventario por cantidad:
-    Seleccione la opción "3. Ordenar inventario por cantidad".
-    El inventario se ordenará por la cantidad de productos de menor a mayor.
-
-    7. Eliminar Producto:
-    Seleccione la opción "4.Eliminar Producto".
-    Ingrese el ID del producto que desea eliminar.
-    Confirme la eliminación del producto.
-    
-    6. Salir del programa:
-    Seleccione la opción "5. Salir" para salir del programa.
-
+1-	Registrar un nuevo perro.
+2-	Modificar la información de un perro existente.
+3-	Eliminar a un perro.
+4-	Mostrar la lista de perros registrados.
+5-	Enlistar por información de los perros.
+6-	Mostrar información detallada de un perro específico.
+7-	Ver al perro ganador de la exposición (con mayor puntaje).
+8-	Ver al perro con el menor puntaje en la exposición.
+9-	Ver al perro más viejo en la exposición.
+10-	Terminar el programa. 
+3.	Selección de Opción:  El usuario debe ingresar el número correspondiente a la opción deseada y presionar Enter. Si se ingresa un número inválido, se mostrará un mensaje de error y se solicitará al usuario que ingrese nuevamente la opción. 
+4.	Ejecución de la Opción Seleccionada:  Dependiendo de la opción seleccionada, se realizará una acción específica. Las acciones incluyen registrar un nuevo perro, modificar la información de un perro existente, eliminar un perro, mostrar información de perros, etc. En caso de errores o excepciones, se mostrarán mensajes informativos adecuados. 
+5.	Repetición del Proceso:  Después de ejecutar una opción, el programa volverá a mostrar el menú de opciones, permitiendo al usuario realizar más acciones o finalizar el programa seleccionando la opción "9". 
+6.	Finalización del Programa:  Cuando el usuario selecciona la opción "9", el programa termina y se muestra un mensaje de despedida.
+```
 **Repita estos pasos según sea necesario para que el programa funcione como lo desea**
 
 ## Ejecutando las pruebas
@@ -80,7 +75,7 @@ Este programa fue construido con Java
 
 ## Autor/es
 
-* **Andrés Lombana - Sebastián Moreno** 
+* **Andrés Lombana - Johan Serrano** 
 
 ## Licencia
 
