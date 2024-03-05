@@ -5,7 +5,7 @@
 </p>
 
 
-Este es un programa en Java que simula un organizador de tareas diarias para estudiantes. Utiliza conceptos de Programación Orientada a Objetos (POO), ciclos, condicionales y manejo de contenedores para almacenar y gestionar tareas.
+Este es un programa en Java que simula el manejo de una Exposición Canina. Utiliza conceptos de Programación Orientada a Objetos (POO), ciclos, condicionales y manejo de contenedores para almacenar y gestionar caninos.
 
 ## Autor/es
 
